@@ -139,7 +139,7 @@ header {
   top: 50%;
   left: 8%;            /* move box horizontally */
   transform: translateY(-50%);
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0,0,0,0.6);
   padding: 3rem 2.5rem;
   max-width: 600px;
 }
@@ -338,7 +338,7 @@ footer a { color: #c78c06; }
   .banner-overlay {
     padding: 5rem 6rem;
     max-width: 60%;
-    background: lrgba(0, 0, 0, 0.6);;
+    background: rgba(0,0,0,0.6);
   }
 
   .about__grid {
